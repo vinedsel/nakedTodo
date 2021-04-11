@@ -1,0 +1,7 @@
+body {
+    background-color: rgb(25, 44, 44);
+}
+
+h1, ul>li {
+    color: goldenrod;
+}
